@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD DOT NET CORE 6.props" />
+</Project>

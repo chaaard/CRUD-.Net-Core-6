@@ -1,0 +1,12 @@
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.deps.json
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.dll
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\refint\CRUD.Domain.dll
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.pdb
+C:\Project\CRUD DOT NET CORE 6\CRUD.Domain\obj\Debug\net6.0\ref\CRUD.Domain.dll
